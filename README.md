@@ -1,3 +1,3 @@
-# js-flhja7
+# expanding-cards
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-flhja7)
